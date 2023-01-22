@@ -4,7 +4,7 @@ class MyHeader extends HTMLElement {
       <header class="sticky-top bg-light">
       <div class="container">
         <nav class="navbar navbar-expand-lg">
-          <a class="navbar-brand" href="#"
+          <a class="navbar-brand" href="/"
             ><img src="./img/suvedas-logo.svg" alt=""
           /></a>
           <button
